@@ -13,7 +13,7 @@ I use GitHub to document my learning journey and share the small apps, interface
 - **Languages:** C#, Java
 - **Frontend:** HTML, CSS, Bootstrap
 - **Concepts:** OOP, UI/UX, Responsive Design
-- **Tools:** Visual Studio, NetBeans, Git, GitHub
+- **Tools:** Visual Studio, Visual Studio Code, NetBeans, GitHub
 
 ---
 
