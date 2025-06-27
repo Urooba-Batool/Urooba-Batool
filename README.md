@@ -39,9 +39,9 @@ I use GitHub to document my learning journey and share the small apps, interface
 <!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Urooba-Batool&layout=compact&theme=default&hide_border=false)
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Urooba-Batool&theme=default&hide_border=false)
-
+-->
 ---
 
 ## 🏷️ Badges
